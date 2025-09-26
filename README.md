@@ -1,4 +1,4 @@
-# 🍫 Chocolate Sales Analysis  
+#  Toffees Sales Analysis  
 
 The objective of this analysis is to evaluate **chocolate sales performance** across products, regions, and salespersons.  
 The insights derived will help management:  
